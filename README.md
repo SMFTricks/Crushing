@@ -9,6 +9,7 @@
 
 ## Features
 - Logo URL
+- Custom Links
 
 ## Requirements
 * Crushing can be installed on SMF 2.0.x
